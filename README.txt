@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/BrahmiMohamed/pen/WERodN.
-
+A simple JS calc made as part of FCC projects
  
